@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/major%20project/mlflow-test/mlruns/0/b48e4ca439994bf48e060bb431d179eb/artifacts
+end_time: 1714891150024
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b48e4ca439994bf48e060bb431d179eb
+run_name: luxuriant-flea-237
+run_uuid: b48e4ca439994bf48e060bb431d179eb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714891147034
+status: 3
+tags: []
+user_id: maste

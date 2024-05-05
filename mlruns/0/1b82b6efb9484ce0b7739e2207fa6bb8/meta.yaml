@@ -1,0 +1,16 @@
+artifact_uri: file:///D:/major%20project/mlflow-test/mlruns/0/1b82b6efb9484ce0b7739e2207fa6bb8/artifacts
+deleted_time: 1714891314232
+end_time: 1714890144621
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 1b82b6efb9484ce0b7739e2207fa6bb8
+run_name: overjoyed-cat-164
+run_uuid: 1b82b6efb9484ce0b7739e2207fa6bb8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714890141722
+status: 3
+tags: []
+user_id: maste
